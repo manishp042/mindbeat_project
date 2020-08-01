@@ -3,7 +3,12 @@ You can find github user score as per given conditions as per their activity.
 
 # steps for setup
 
-Take pull of the repository and run a command composer update
+Take pull of the repository and follow below steps:-
+<ol>
+<li> Composer update</li>
+<li> Add/Create .env file</li>
+<li> php artisan key:generate</li>
+</ol>
 
 # home page
 
